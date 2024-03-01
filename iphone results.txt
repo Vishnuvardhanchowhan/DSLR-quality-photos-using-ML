@@ -1,0 +1,15 @@
+step 0, iphone | discriminator accuracy | train: 0.003594, test: 0.4979
+generator losses | train: 3.355, test: 784 | content: 15.35, color: 969.9, texture: -48.51, tv: 7.679e-05 | psnr: 10.76, ms-ssim: 0.4239
+
+step 200, iphone | discriminator accuracy | train: 0.5142, test: 0.492
+generator losses | train: 278.4, test: 245.2 | content: 13.81, color: 182.4, texture: -22.46, tv: 0.0009166 | psnr: 17.42, ms-ssim: 0.8609
+
+step 400, iphone | discriminator accuracy | train: 0.5052, test: 0.494
+generator losses | train: 213.3, test: 206.1 | content: 11.49, color: 158.2, texture: -22.21, tv: 0.00133 | psnr: 18.24, ms-ssim: 0.8739
+
+step 600, iphone | discriminator accuracy | train: 0.512, test: 0.497
+generator losses | train: 187.4, test: 177.8 | content: 10.64, color: 132.2, texture: -23.99, tv: 0.001379 | psnr: 18.92, ms-ssim: 0.8876
+
+step 800, iphone | discriminator accuracy | train: 0.4963, test: 0.4956
+generator losses | train: 177.2, test: 177.7 | content: 10.07, color: 137.7, texture: -22.38, tv: 0.001516 | psnr: 18.8, ms-ssim: 0.8903
+
